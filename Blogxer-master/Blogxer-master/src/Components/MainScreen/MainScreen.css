@@ -1,0 +1,16 @@
+.main {
+  padding: 0 10%;
+  display: flex;
+}
+
+@media (max-width: 786px) {
+.main{
+  padding: 0 3%;
+}
+}
+@media (max-width: 986px) {
+  .main{
+    padding: 0 5%;
+  }
+  }
+  

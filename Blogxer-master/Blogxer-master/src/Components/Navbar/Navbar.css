@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&family=Rubik+Iso&display=swap");
+
+.navbar {
+  /* overflow: hidden; */
+
+  /* position: fixed; */
+  top: 0;
+  width: 100%;
+}
+
+.logo-design {
+  font-family: "Poppins", sans-serif;
+  font-family: "Rubik Iso", cursive;
+  font-size: 1.5rem;
+}

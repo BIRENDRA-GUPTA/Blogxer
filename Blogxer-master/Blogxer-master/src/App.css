@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background: #f4f4f4;
+  /* background-color: aliceblue; */
+}
+
+input:focus {
+  outline: none !important;
+}
+
+.dark-mode {
+  /* background: #585858; */
+}
+
+.mode {
+  position: fixed;
+  bottom: 5%;
+  left: 5%;
+  border: none;
+}
